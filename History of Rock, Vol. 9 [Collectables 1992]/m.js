@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Bread - Butter.mp3";		
+f[2]	= "02 Popsicles and Icicles.mp3";		
+f[3]	= "03 Oh What a Night.mp3";		
+f[4]	= "04 Snoopy vs. the Red Baron.mp3";		
+f[5]	= "05 Precious and Few.mp3";		
+f[6]	= "06 Baby Talk.mp3";		
+f[7]	= "07 The Oogum Boogum Song.mp3";		
+f[8]	= "08 One Fine Day.mp3";		
+f[9]	= "09 Get on Up.mp3";		
+f[10]	= "10 He Will Break Your Heart.mp3";		
+f[11]	= "11 Robbin' the Cradle.mp3";		
+f[12]	= "12 Lovers' Island.mp3";		
+f[13]	= "13 Land of 1000 Dances.mp3";		
+f[14]	= "14 Tequila.mp3";		
